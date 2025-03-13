@@ -27,7 +27,8 @@ Need for LLM RAG Labs
 Need for multimodal RAG
 [OpenAPI Key](https://platform.openai.com/api-keys)   # Search and ReAct Agent
 [KDB.AI account](https://kdb.ai/get-started) # Multimodal Search
-[VoyageAI](https://docs.anthropic.com/en/api/getting-started) # Multimodal Search
+[VoyageAI](https://docs.anthropic.com/en/api/getting-started) # Multimodal Search   
+[Gemini API](https://aistudio.google.com/welcome?gad_source=1&gclid=Cj0KCQjwhMq-BhCFARIsAGvo0KeGmwKZmSyy2ce7AZVh1grDfckUzrJfp5jRMWtd31-BN0lEQXuXrrcaAj37EALw_wcB) # only needed for one step at the end, can be skipped
 
 Need for Agentic RAG
 [OpenAPI Key](https://platform.openai.com/api-keys)   # Search and ReAct Agent   
