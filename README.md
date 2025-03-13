@@ -21,25 +21,25 @@ Notebook computer
 Basic Python programming ability or a partner who knows python programming ;-)   
 
 ### API Keys
-Need for LLM RAG Labs    
+Needed for LLM RAG Labs    
 [Pinecone.io API Key](https://www.pinecone.io) 
 
-Need for multimodal RAG
-[OpenAPI Key](https://platform.openai.com/api-keys)   # Search and ReAct Agent
-[KDB.AI account](https://kdb.ai/get-started) # Multimodal Search
+Needed for multimodal RAG  
+[OpenAPI Key](https://platform.openai.com/api-keys)   # Search and ReAct Agent   
+[KDB.AI account](https://kdb.ai/get-started) # Multimodal Search   
 [VoyageAI](https://docs.anthropic.com/en/api/getting-started) # Multimodal Search   
 [Gemini API](https://aistudio.google.com/welcome?gad_source=1&gclid=Cj0KCQjwhMq-BhCFARIsAGvo0KeGmwKZmSyy2ce7AZVh1grDfckUzrJfp5jRMWtd31-BN0lEQXuXrrcaAj37EALw_wcB) # only needed for one step at the end, can be skipped
 
-Need for Agentic RAG
+Needed for Agentic RAG  
 [OpenAPI Key](https://platform.openai.com/api-keys)   # Search and ReAct Agent   
 [Anthropic API Key](https://docs.anthropic.com/en/api/getting-started)  # Agent workflows, reuires $5   
 
 ### LLM RAG
 [LLM RAG](https://docs.google.com/presentation/d/17tjn5SKsznB04qnnjpZe-Yivyf-XLeFAcrwIIwWjwEU/edit?usp=sharing)
 
-Notebooks: Just need hyrbrid_search_pinecone
+Notebooks:
 
-[Hybrid Search](notebooks/hyrbrid_search_pinecone.ipynb)
+[Hybrid Search](notebooks/hyrbrid_search_pinecone.ipynb)   
 [LLM Reranking](notebooks/reranker.ipynb)
 
 ### Multimodal RAG
