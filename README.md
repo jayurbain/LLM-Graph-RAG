@@ -15,6 +15,9 @@ Previous workshops:
 [Graph Machine Learning](https://github.com/jayurbain/GraphMachineLearning)   
 [LLM Knowledge Graph](https://github.com/jayurbain/LLM-KnowledgeGraph)
 
+### Contact   
+jay.urbain@gmail.com
+
 ### Requirements
 
 Notebook computer   
@@ -27,7 +30,7 @@ Needed for LLM RAG Labs
 Needed for multimodal RAG  
 [OpenAPI Key](https://platform.openai.com/api-keys)   # Search and ReAct Agent   
 [KDB.AI account](https://kdb.ai/get-started) # Multimodal Search   
-[VoyageAI](https://docs.anthropic.com/en/api/getting-started) # Multimodal Search   
+[VoyageAI](https://www.voyageai.com/) # Multimodal Search   
 [Gemini API](https://aistudio.google.com/welcome?gad_source=1&gclid=Cj0KCQjwhMq-BhCFARIsAGvo0KeGmwKZmSyy2ce7AZVh1grDfckUzrJfp5jRMWtd31-BN0lEQXuXrrcaAj37EALw_wcB) # only needed for one step at the end, can be skipped
 
 Needed for Agentic RAG  
